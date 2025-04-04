@@ -1,7 +1,7 @@
 # 👩🏻‍💻 Diego Goncalves
 **`Desenvolvedor junior`**
 
-Me chamo Diego Goncalves dos Santos, tenho 21 anos e sou natural de Sao paulo. Atualmente, estou cursando Engenharia da computacao. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "DieguinhoDev(www.youtube.com/@DieguinhoDev)", onde ensino a criar projetos web
+Me chamo Diego Gonçalves dos Santos, tenho 21 anos e sou natural de São Paulo. Atualmente, curso Engenharia da Computação e sou apaixonado por tecnologia. Compartilho meus conhecimentos por meio do meu canal no YouTube, DieguinhoDev (www.youtube.com/@DieguinhoDev), onde ensino a criar projetos web de forma prática e acessível.
 
 
 ---
