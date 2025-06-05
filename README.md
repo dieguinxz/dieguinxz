@@ -79,7 +79,7 @@ Me chamo Diego Gonçalves dos Santos, tenho 21 anos e sou natural de São Paulo.
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="180" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=dieguinxz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -87,7 +87,7 @@ Me chamo Diego Gonçalves dos Santos, tenho 21 anos e sou natural de São Paulo.
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="180" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=dieguinxz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
