@@ -1,7 +1,8 @@
 # 👩🏻‍💻 Diego Goncalves dos Santos 
 **`Desenvolvedor junior`**
 
-Me chamo Diego Gonçalves, tenho 22 anos e sou natural de São Paulo. Atualmente, curso Engenharia da Computação. Meu site/portfolio (https://dieguin.pages.dev) 
+Me chamo Diego Gonçalves, tenho 22 anos e sou natural de São Paulo. Atualmente, curso Engenharia da Computação. Meu site/portfolio (https://dieguin.pages.dev)
+
 ---
 <div> 
   <a href="https://www.youtube.com/@DieguinhoDev" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
